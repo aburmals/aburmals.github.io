@@ -1,2 +1,2 @@
-# aburmals.github.io
-MY Website
+# haribalaji.github.io
+A webpage that is dedicated to myself
